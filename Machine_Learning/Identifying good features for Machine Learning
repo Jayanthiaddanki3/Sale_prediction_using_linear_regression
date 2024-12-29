@@ -1,0 +1,8 @@
+1. True or False: Feature selection is the process of randomly choosing any subset of features from the dataset.
+A: False
+2. True or False: Dimensionality reduction is a technique used in feature engineering to increase the number of features in the dataset.
+A: False
+3. True or False: Feature engineering involves creating new features by combining or transforming existing ones to enhance the model's performance.
+A: True
+4. True or False: Features that exhibit high discriminative power are typically highly correlated with each other.
+A: False
