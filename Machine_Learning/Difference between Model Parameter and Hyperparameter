@@ -1,0 +1,6 @@
+1. What are model parameters?
+A: Variables learned from the training data that define the model.
+2. Which of the following statements is true?
+A: Model parameters are not set manually by the user.
+3. How are model parameters and hyperparameters different?
+A: Model parameters define the structure and behavior of the model, while hyperparameters control the learning process.
