@@ -1,0 +1,10 @@
+1. True or False: In cross-validation, the data is split into training and testing sets, and the precision score is computed on the testing set for each fold.
+A: True
+2. True or False: Increasing the number of folds in cross-validation can improve the accuracy of the estimated precision score, but at the cost of increased computational time.
+A: True
+3. Compute the average precision score of the cross-validation result
+A: The average cross-validation precision is higher than 0.90
+4. True or False: The results show that the Random Forest model trained with n_estimators=100 and random_state=42 did not generalize well, as it showed poor performance on the test dataset.
+A: False
+5. True or False: Cross-validation can only be used to estimate the precision score of classification models, but not regression models.
+A: False
