@@ -1,0 +1,6 @@
+1. Check if any of the record of the dataset is duplicated
+A: There are 9 duplicated rows
+2. Your task is to check for duplicates in a specific column of a given DataFrame. Select the correct code
+A: df.duplicated('TypeText')
+3. Drop duplicated
+A: df.drop_duplicates( keep='first',inplace=True)
